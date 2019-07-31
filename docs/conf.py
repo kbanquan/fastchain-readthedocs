@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 #
 #fast-chain documentation build configuration file, created by
-# sphinx-quickstart on Mon Nov 19 20:59:18 2018.
+# sphinx-quickstart on Mon Nov 19 20:59:18 2019.
 #
 # This file is execfile()d with the current directory set to its
 # containing dir.
@@ -50,8 +50,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'快链'
-copyright = u'2018, 快链'
-author = u'baoquan.com'
+copyright = u'2019, 快链'
+author = u'kbanquan.com'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -261,7 +261,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'FAST.tex', u'FAST Documentation',
-     u'baoquan.com', 'manual'),
+     u'kbanquan.com', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -312,7 +312,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
     (master_doc, 'FAST', u'FAST Documentation',
-     author, 'baoquan', 'One line description of project.',
+     author, 'kbanquan', 'One line description of project.',
      'Miscellaneous'),
 ]
 
