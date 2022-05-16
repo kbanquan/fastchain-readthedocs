@@ -1,2 +1,2 @@
-#fast-chain-readthedocs
-fast-chain doc , http://browser.kbanquan.com
+#zbchain-readthedocs
+zb-chain doc , https://browser.zbl.org.cn/

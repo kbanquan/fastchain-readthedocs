@@ -1,7 +1,7 @@
 SDK
 =================
 
-快链(FASTCHAIN)目前只提供Java的SDK，包括Java、Go、Node，后续会增加更多。
+中版链(ZBCHAIN)目前只提供Java的SDK，包括Java、Go、Node，后续会增加更多。
 
 .. toctree::
 	:maxdepth: 2

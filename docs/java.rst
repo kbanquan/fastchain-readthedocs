@@ -4,14 +4,14 @@ Java
 如果使用maven，可以加入如下依赖::
 
 	<dependency>
-	    <groupId>com.kbanquan</groupId>
+	    <groupId>com.zbl</groupId>
 	    <artifactId>chain-sdk</artifactId>
 	    <version>1.0</version>
 	</dependency>
 
 如果使用gradle，可以加入如下依赖::
-	
-	compile group: 'com.kbanquan', name: 'chain-sdk', version: '1.0'
+
+	compile group: 'com.zbl', name: 'chain-sdk', version: '1.0'
 
 初始化客户端
 ------------------
